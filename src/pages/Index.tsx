@@ -222,8 +222,8 @@ export default function Index() {
               className="w-44 h-44 rounded-full object-cover mx-auto animate-glow-pulse"
               style={{ boxShadow: "0 0 60px rgba(253,224,71,0.4), 0 0 120px rgba(253,224,71,0.15)" }}
             />
-            <span className="absolute -top-2 -right-2 text-3xl animate-float" style={{ animationDelay: "0.5s" }}>✨</span>
-            <span className="absolute -bottom-1 -left-3 text-2xl animate-float" style={{ animationDelay: "1.2s" }}>🌟</span>
+            <span className="absolute -top-2 -right-2 text-3xl animate-float" style={{ animationDelay: "0.5s" }}>💡</span>
+            <span className="absolute -bottom-1 -left-3 text-2xl animate-float" style={{ animationDelay: "1.2s" }}>🕯️</span>
           </div>
 
           <p className="text-yellow-400/80 font-semibold tracking-widest uppercase text-sm mb-3">
@@ -235,7 +235,7 @@ export default function Index() {
             <span className="gradient-text-green">Свет</span>
           </h1>
           <p className="text-xl text-yellow-100/70 font-semibold max-w-xl mx-auto">
-            Путешествие в страну Светлячков
+            Путешествие в страну Огней
           </p>
 
           <div className="flex flex-wrap justify-center gap-3 mt-6">
@@ -357,7 +357,7 @@ export default function Index() {
           <h2 className="text-2xl font-black gradient-text mb-3">Праздник света и выставка</h2>
           <p className="text-yellow-100/70 max-w-lg mx-auto leading-relaxed">
             Финальное мероприятие: выставка{" "}
-            <strong className="text-yellow-300">«Наши семейные светлячки»</strong>,
+            <strong className="text-yellow-300">«Наши семейные огоньки»</strong>,
             включение всех самодельных светильников, чаепитие с электрическими свечами
             и подведение итогов по «Методу трёх вопросов».
           </p>
@@ -371,9 +371,9 @@ export default function Index() {
         </section>
 
         <div className="text-center mt-10 text-3xl">
-          <span className="inline-block animate-float" style={{ animationDelay: "0s" }}>🌟</span>
-          <span className="inline-block animate-float mx-3" style={{ animationDelay: "0.5s" }}>✨</span>
-          <span className="inline-block animate-float" style={{ animationDelay: "1s" }}>🌟</span>
+          <span className="inline-block animate-float" style={{ animationDelay: "0s" }}>💡</span>
+          <span className="inline-block animate-float mx-3" style={{ animationDelay: "0.5s" }}>🕯️</span>
+          <span className="inline-block animate-float" style={{ animationDelay: "1s" }}>🔆</span>
         </div>
       </div>
     </div>
