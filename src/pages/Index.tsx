@@ -230,12 +230,12 @@ export default function Index() {
             Паспорт проекта
           </p>
           <h1 className="text-4xl md:text-6xl font-black leading-tight mb-4" style={{ fontFamily: "'Nunito', sans-serif" }}>
-            <span className="shimmer-text">Путешествие в страну</span>
+            <span className="shimmer-text">Как люди приручили</span>
             <br />
-            <span className="gradient-text-green">Светлячков</span>
+            <span className="gradient-text-green">Свет</span>
           </h1>
           <p className="text-xl text-yellow-100/70 font-semibold max-w-xl mx-auto">
-            Как люди дружили со светом
+            Путешествие в страну Светлячков
           </p>
 
           <div className="flex flex-wrap justify-center gap-3 mt-6">
